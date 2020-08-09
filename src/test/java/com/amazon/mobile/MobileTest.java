@@ -22,6 +22,10 @@ public class MobileTest {
 		System.out.println("This is sample vivo Test");
 	}
 	
+	@Test
+	public void Nokia() {
+		System.out.println("This is sample Nokia Test");
+	}
 	
 	
 	
