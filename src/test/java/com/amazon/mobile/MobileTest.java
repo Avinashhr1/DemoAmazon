@@ -27,6 +27,10 @@ public class MobileTest {
 		System.out.println("This is sample Nokia Test");
 	}
 	
+	@Test
+	public void realMe() {
+		System.out.println("This is sample realMe Test");
+	}
 	
 	
 }
